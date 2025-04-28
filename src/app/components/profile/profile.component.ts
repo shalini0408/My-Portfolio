@@ -17,7 +17,7 @@ export class ProfileComponent {
   }
 
   openResume() {
-    window.open("./assets/Shalini.pdf");
+    window.open("./assets/Resume_Intern.pdf");
   }
 
   goToLinkedin() {
