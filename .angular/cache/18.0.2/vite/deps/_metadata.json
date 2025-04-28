@@ -1,0 +1,43 @@
+{
+  "hash": "10c812fc",
+  "configHash": "16d2652f",
+  "lockfileHash": "1643ccf7",
+  "browserHash": "80f9c2f8",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "921f24a0",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "48ed40f6",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "26fda2f0",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "791f816b",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-7NITIS54": {
+      "file": "chunk-7NITIS54.js"
+    },
+    "chunk-TOPFRUVM": {
+      "file": "chunk-TOPFRUVM.js"
+    },
+    "chunk-NKWK6WG7": {
+      "file": "chunk-NKWK6WG7.js"
+    }
+  }
+}
