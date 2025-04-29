@@ -17,7 +17,7 @@ export class ProfileComponent {
   }
 
   openResume() {
-    window.open("./assets/Resume_Intern.pdf");
+    window.open("https://drive.google.com/file/d/1Vl2V0lUBd2YT3nVBguI09ALy78BeBl0_/view?usp=sharing");
   }
 
   goToLinkedin() {
